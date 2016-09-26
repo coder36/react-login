@@ -1,0 +1,35 @@
+{
+  "name": "react-login",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.6.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "bootstrap": "^3.3.7",
+    "cors": "^2.8.1",
+    "express": "^4.14.0",
+    "express-graphql": "^0.5.4",
+    "foreman": "^2.0.0",
+    "graphql": "^0.7.0",
+    "jsonwebtoken": "^7.1.9",
+    "lokka": "^1.7.0",
+    "lokka-transport-http": "^1.4.0",
+    "mongoose": "^4.6.1",
+    "react": "^15.3.2",
+    "react-bootstrap": "^0.30.3",
+    "react-dom": "^15.3.2",
+    "react-redux": "^4.4.5",
+    "react-router": "^2.8.1",
+    "react-router-redux": "^4.0.6",
+    "redux": "^3.6.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "graphql": "node graphql-server"
+  }
+}
