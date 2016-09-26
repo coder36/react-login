@@ -50,8 +50,10 @@ foreman start
 (http://localhost:5000)[http://localhost:5000]
 
 
-The graphql server will start up on: (http://localhost:5100)[http://localhost:5100]
+The graphql server will start up on: [http://localhost:5100](http://localhost:5100)
 
+
+<img src="https://raw.githubusercontent.com/coder36/react-login/master/docs/images/signin.png"/>
 
 ## Followup work
 
